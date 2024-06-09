@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is Alex and I am a rising junior studying computer science and data science at New York University<br>
+My name is Alex and I code<br>
 
 
 # 🏋🏻‍♀️ List of Projects:
