@@ -26,7 +26,7 @@
 # 🛠 Skills
 
 - **Programming Languages:** Go, Python, Java, JavaScript
-- **Tools & Technologies:** Docker, Kubernetes, RPC protocols, NoSQL Databases
+- **Tools & Technologies:** Docker, Kubernetes, RPC protocols, NoSQL Databases, SQL Databases, AWS
 - **Areas of Expertise:** Distributed Systems, Backend Development, Machine Learning, Security in Additive Manufacturing
 
 
