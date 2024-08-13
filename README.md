@@ -5,8 +5,8 @@
   Major: Computer Science and Data Science
   Clubs: Vice-President @ NYU Machine Learning Club, Software Developer @ NYU BUGS Open Source Club  
 # 💼 Work Experience
-[Software Engineer Intern](https://www.checkins.ai/)\
-[Lead Software Engineer/Co-Founder ](https://www.tryintervia.com/)
+[Software Engineer Intern at Checkins.AI](https://www.checkins.ai/)\
+[Lead Software Engineer/Co-Founder at Intervia](https://www.tryintervia.com/)
 
 # 🔬 Interests and Focus Areas
 
