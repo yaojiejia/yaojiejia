@@ -29,7 +29,11 @@
 - **Tools & Technologies:** Docker, Kubernetes, RPC protocols, NoSQL Databases, SQL Databases, AWS
 - **Areas of Expertise:** Distributed Systems, Backend Development, Machine Learning, Security in Additive Manufacturing
 
+# 🤝 Connect
 
+- I'm happy to connect! Find me on [Linkedin](https://www.linkedin.com/in/alex-jia-859236209/)
+- Or email me at yj2761@nyu.edu
+  
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yaojiejia&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yaojiejia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
